@@ -19,10 +19,10 @@ avatar: https://avatars2.githubusercontent.com/u/627368?v=3&s=460
 footer-links:
   dribbble:
   email:
-  facebook:
+  facebook: jstanier
   flickr:
   github: jstanier
-  instagram:
+  instagram: js231
   linkedin:
   pinterest:
   rss: # just type anything here for a working RSS icon
@@ -41,7 +41,7 @@ google_analytics:
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
-url: http://jstanier.github.io
+url: http://jstanier.com
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
