@@ -8,9 +8,9 @@ I'm (Dr.) James. I'm currently VP Engineering at [Brandwatch](http://www.brandwa
 Right now I'm focussed on:
 
 * Growing the Brandwatch Engineering department and learning as much as I can whilst doing so
-* Finding more balance in my life through not constantly being sat in front of the computer outside of work
 * Helping run and sponsor [Brighton Java](http://www.meetup.com/Brighton-Java/)
 * Improving the quality of what I read and write
+* Finding more balance in my life by not constantly being sat in front of the computer
 * Enjoying the present moment, rather than relentlessly projecting into the future.
 
 If you'd like to get in touch, I'm [@jstanier](http://www.twitter.com/jstanier). Do say hello!
