@@ -1,4 +1,7 @@
-
+---
+layout: post
+title: Not knowing
+---
 
 I'm sure that you've seen a film, a TV show or a cartoon where the teacher turns to the class and asks a question, only to see that no child in the class raises their hand. At that moment, the teacher singles out one of the children and puts her on the spot.
 
