@@ -23,9 +23,9 @@ Ding.
 
 The ability to focus on a small amount of worthwhile things is what makes the difference in your lifetime to come. It's OK to ignore that email until later. If you want to see the content that your friends are sharing, do so because you have chosen to.
 
-I fought hard with overwhelm in the last few years. Now I try my best to batch up my communication, where possible, into a couple of short discrete blocks a day. I've turned off most of the notifications on my phone. I try to close Slack when I don't need to communicate anything. I try to only keep one or two browser tabs open at work. I try my best to do one thing at a time. 
+I fought hard with digital overwhelm in the last few years. Now I try my best to batch up my communication, where possible, into a couple of discrete blocks each day. I've turned off most of the notifications on my phone. I try to close Slack when I don't need to communicate anything. I try to keep only one or two browser tabs open at work. One thing at a time. 
 
-Between all of these distractions you can find a surprising amount of spaciousness. It's a healthy venue for breeze to blow over the brain.
+Between all of these distractions you can find a surprising amount of calm. Breeze can blow over the brain.
 
 Ding.
 
