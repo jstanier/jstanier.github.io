@@ -1,4 +1,7 @@
-
+---
+layout: post
+title: The vulnerable hero
+---
 
 The latest Star Wars film, aside from being generally excellent, is a strong parable in leadership. Rey and Finn show the characteristics of the most likable movie heroes: a strong will to do what's right, courage in difficult situations, and a transparent vulnerability in the face of danger. These are characters that we can clearly relate to, and rally support for, in the face of overwhelming circumstances.
 
