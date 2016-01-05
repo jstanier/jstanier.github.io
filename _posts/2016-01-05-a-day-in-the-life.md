@@ -17,7 +17,7 @@ I've been reading the latest issue of [Offscreen](http://www.offscreenmag.com/) 
 
 **9:30** - We have a meeting about the various projects that are going on in Engineering at the moment, and which members of staff are allocated to them. We discuss whether that's a good balance given everything that we want to achieve, and work out how we should maintain that allocation over the next few months.
 
-**11:00** - I join a (late) stand-up about the data platform rearchitecture project, then back to my desk to get on with some work.
+**11:00** - I join a (late) stand-up about the data platform rearchitecture project, then I head back to my desk to get on with some work.
 
 **12:00** - We have a weekly check-in with the CTO about how the rearchitecture project is going. We identify any risks, what the critical path looks like, and whether there's any more work that we could begin in parallel while we wait for some long-running tests to roll in.
 
@@ -29,9 +29,9 @@ I've been reading the latest issue of [Offscreen](http://www.offscreenmag.com/) 
 
 **16:45** I realise that there are a bunch of things I'm not going to get around to today, so I move them to tomorrow in my to-do list. I do however start arranging my trip to visit the San Francisco office next month, to spend some time working with my team out there.
 
-**17:35** I pack up and pop to the breakout area to wait for Rebecca to finish up. I watch the ball during a game of table tennis that's happening at the moment. It's quite hypnotic, and I'm quite tired after my first day back. My eyelids get heavy.
+**17:35** I pack up and pop to the breakout area to wait for Rebecca to finish up. I watch the ball during a game of table tennis that's happening at the moment. It's quite hypnotic, and I'm rather tired after my first day back. My eyelids get heavy.
 
-**17:40** A peek out of the window and it's pouring it down, so we walk to Brighton station to get the train back to Preston Park. We pick up some ingredients for dinner at the other end.
+**17:40** A quick peek out of the window and it's pouring it down, so we walk to Brighton station to get the train back to Preston Park. We pick up some ingredients for dinner at the other end.
 
 **18:30** Vegetables get chopped while we have a conversation about meaning in life and work. We discuss some plans for the future, and how busy our first day back was. We cook, eat and wash up.
 
