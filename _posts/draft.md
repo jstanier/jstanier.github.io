@@ -1,0 +1,12 @@
+I had a great video call with an old school friend last night. He is currently living in Silicon Valley as the founder of a VC-backed startup, and for numerous reasons he is going to be moving back to the UK. We touched on a number of meaningful topics, as Old Suttonians inevitably do, but one that I particularly enjoyed talking about was ikigai.
+
+According to [Wikipedia](https://en.wikipedia.org/wiki/Ikigai):
+> The word ikigai is usually used to indicate the source of value in one's life or the things that make one's life worthwhile. Secondly, the word is used to refer to mental and spiritual circumstances under which individuals feel that their lives are valuable. It's not necessarily linked to one's economic status or the present state of society. Even if a person feels that the present is dark, but they have a goal in mind, they may feel ikigai. Behaviours that make us feel ikigai are not actions which we are forced to take—these are natural and spontaneous actions.
+
+Being a visual learner, I find this Venn diagram a natural way to understand the concept.
+
+![Ikigai Venn](https://upload.wikimedia.org/wikipedia/commons/e/eb/Ikigai-EN-optimized-PNG.png)
+
+Ideally we should all be nudging aspects of our existence towards ikigai, as research has shown that it increases health and happiness and prolongs life. I've also found that you can apply this concept with both broad and narrow focuses. With a broad focus, you can evaluate bigger-picture items in your life, such as whether your current job is cultivating meaning, or whether it is giving you the opportunity to do what you're best at. 
+
+Conversely, with a narrow focus, you can apply that framework to individual aspects of your job. For example, when faced with a barrage of seemingly boring tasks such as an avalanche of email or yet more technical test reviews, you can focus on how your actions have a ripple effect on others in the world. Perhaps if you treat your emails with more care and love, you might make someone's day amongst a handful of blunt responses. If you mindfully critique a technical test, maybe the applicant will be inspired to skill up and apply again in the future.
