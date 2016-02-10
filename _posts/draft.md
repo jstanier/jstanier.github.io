@@ -1,0 +1,7 @@
+I'm in San Francisco this week, and the thing that has struck me the most about it is the weather. I could talk about the housing crisis, or the homeless, but I'd like to keep this really simple.
+
+England feels like it's been stuck in a state of drizzly grey cloud and darkness for the last 4 months. I've cycled in countless times with my waterproof trousers and lights on. The same thing is true about the journey home in the evening. I'm getting used to hanging my coat up to drip-dry in the shower. I hadn't realized how much it had been affecting my mood until now.
+
+As the plane banked over the bay on the approach to San Francisco airport, it was the most beautiful day. There were blue skies and a glistening sea. As I waited for an Uber outside the airport, I could feel the heat radiating up from the pavement. Or do I mean sidewalk? Either way, it's just lovely.
+
+If England is listening, I'd like some of this when I return. Pretty please.
